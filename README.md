@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shubham Chopde</h1>
 <h3 align="center">A passionate frontend developer</h3>
+<div>
+  
 
-<p align="left"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="shubhampawar05" /> </p>
+
+<p align="right"> <img width=400 src="https://miro.medium.com/v2/resize:fit:1400/1*gReLR6hZjwyBxHmfLN1AVw.gif" alt="shubhampawar05" /> </p>
+  
 
 - 🌱 I’m currently learning **NodeJS**
 
@@ -12,6 +16,8 @@
 - 📫 How to reach me **shubhamchopde090@gmail.com**
 
 - 📄 Know about my experiences [https://portfolio-three-lovat-64.vercel.app/](https://portfolio-three-lovat-64.vercel.app/)
+  
+  [![HitCount](https://hits.dwyl.com/shubhampawar05/shubhampawar05.svg?style=flat-square)](http://hits.dwyl.com/shubhampawar05/shubhampawar05)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
