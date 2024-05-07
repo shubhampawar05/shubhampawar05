@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://portfolio-three-lovat-64.vercel.app/](https://portfolio-three-lovat-64.vercel.app/)
   
-  [![Profile view](https://hits.dwyl.com/shubhampawar05/shubhampawar05.svg?style=flat-square)](http://hits.dwyl.com/shubhampawar05/shubhampawar05)
+![](https://komarev.com/ghpvc/?username=shubhamchopde05&style=flat-square)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" >
